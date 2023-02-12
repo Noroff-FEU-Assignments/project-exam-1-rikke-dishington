@@ -107,7 +107,7 @@ export function createHtmlObject(post) {
   const date = new Date(post.modified);
   const excerpt = post.excerpt.rendered;
 
-  const image = createCardImage(post.image);
+  const image = createCardImage();
   const title = createCardTitle(post.title.rendered);
   const subtitle = createCardSubtitle(date.toLocaleDateString());
   const text = createCardText(excerpt.replace(/<\/?p>/g, ""));
