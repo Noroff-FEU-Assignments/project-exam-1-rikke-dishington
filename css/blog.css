@@ -1,0 +1,10 @@
+.blog-list-container {
+  display: flex;
+  flex-direction: column;
+  margin: 100px 20px 50px 20px;
+}
+
+.cta {
+  margin: auto;
+  width: 50%;
+}
