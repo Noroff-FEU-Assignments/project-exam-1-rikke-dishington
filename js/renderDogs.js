@@ -8,12 +8,13 @@ async function renderDogs() {
 
     for (let i = 0; i < dogs.length; i++) {
       const dogsImage = dogs[i].info.image;
+      const dogsImageAlt = dogs[i].info.alt;
       const dogsName = dogs[i].info.name;
       const dogsDescription = dogs[i].info.description;
 
       dogsContainer.innerHTML += `
                                       <div class="dog">
-                                      <img src="${dogsImage}" />
+                                      <img src="${dogsImage}" alt"${dogsImageAlt}"/>
                                           <div class="dog-information">
                                             <h3>${dogsName}</h3>
                                             <p>${dogsDescription}</p>
