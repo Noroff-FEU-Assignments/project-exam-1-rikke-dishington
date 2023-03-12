@@ -13,9 +13,7 @@
 
 ## Description
 
-In this project I have created a website for Retriever Gundog Blog.
-
-Rainy Days. Rainy Days is an online shop selling men’s and women’s rain jackets. The jackets are designed for a range of different outdoor activates such as hiking, skiing, and kayaking. The main goal for the site is to encourage viewers to purchase a jacket. 
+Retriever Gundog Blog is a blog for all who are interested in retriever gundogs. In this project I have created a blog for two enthusiastic women who wants to share their experiences and knowledge about retrievers and hunting.
 
 ## Built With
 
