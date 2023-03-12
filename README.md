@@ -1,6 +1,6 @@
 # Project Exam 1 - Retriever Gundog Blog
 
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
+![retreivergundog](https://user-images.githubusercontent.com/85433495/224537166-1c52885e-4809-4416-94d2-05ea94813347.png)
 
 ## Table of Content
 * [Description](#description)
