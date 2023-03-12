@@ -46,6 +46,20 @@ All icons are collected from Font Awesome.
 
 ## Support
 
-Contributions, issues, and feature requests are welcome! Please open a pull request before you make any changes.
+Contributions, issues, and feature requests are welcome! Please clone the project before you make any changes.
+
+### Installing
+1. Clone the repo:
+
+```bash
+git clone git@hgithub.com/rikke-dishington/project-exam-1
+```
+
+2. Install the dependencies:
+
+```
+npm install
+```
+
 
 Give a ⭐️ if you like this project!
