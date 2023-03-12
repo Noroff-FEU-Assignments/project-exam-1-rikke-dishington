@@ -28,7 +28,7 @@ Rainy Days. Rainy Days is an online shop selling men’s and women’s rain jack
 
 - [Repo](https://github.com/Noroff-FEU-Assignments/project-exam-1-rikke-dishington "<Retreiver Gundog Blog> Repo")
 - [Live](https://coruscating-blini-8ad5a3.netlify.app/index.html "Live View")
-- [API](https://rikkedishingtonschool.com/rainy-days/wp-json/wc/store/products "Wordpress REST API")
+- [API](https://rikkedishingtonschool.com/project-exam/wp-json/wp/v2/posts "Wordpress REST API")
 
 ## Author
 
@@ -39,9 +39,11 @@ Rainy Days. Rainy Days is an online shop selling men’s and women’s rain jack
 
 ## Licenses
 
-All photos are purchased through Adobe Stock.
+Some photos are purchased through Adobe Stock. 
 All icons are collected from Font Awesome.
 
+## Acknowledges
+** Hans Magnus Utne** Support with js code on images. 
 
 ## Support
 
