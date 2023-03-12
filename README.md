@@ -50,18 +50,14 @@ Contributions, issues, and feature requests are welcome! Please fork the repo an
 
 ### Installing
 
-1. Clone the forked repo:
+Clone the forked repo:
 
 ```bash
 $ git clone https://github.com/YOUR-USERNAME/project-exam-1
 ```
 
-2. Install the dependencies:
-
-
-```
-npm install
-```
+### Running
+The blog articles are pulled through a WordPress Rest API. The website uses WordPress as CSM to create and update the blog articles. The WordPress site is set as Headless. Please get in touch if you would like to add or make any changes regarding the blog articles. 
 
 
 Give a ⭐️ if you like this project!
