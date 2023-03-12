@@ -52,7 +52,7 @@ Contributions, issues, and feature requests are welcome! Please clone the projec
 1. Clone the repo:
 
 ```bash
-git clone git@hgithub.com/rikke-dishington/project-exam-1
+git clone https://github.com/Noroff-FEU-Assignments/project-exam-1-rikke-dishington.git
 ```
 
 2. Install the dependencies:
