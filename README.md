@@ -44,7 +44,7 @@ Some photos are purchased through Adobe Stock.
 All icons are collected from Font Awesome.
 
 ## Acknowledges
-**Hans Magnus Utne** Support with js code on images. 
+**Hans Magnus Utne** :clap: Support with js code on images. 
 
 ## Support
 
