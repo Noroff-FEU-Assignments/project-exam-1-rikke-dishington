@@ -46,16 +46,18 @@ All icons are collected from Font Awesome.
 
 ## Support
 
-Contributions, issues, and feature requests are welcome! Please clone the project before you make any changes.
+Contributions, issues, and feature requests are welcome! Please fork the repo and submit a pull request before you make any changes.
 
 ### Installing
-1. Clone the repo:
+
+1. Clone the forked repo:
 
 ```bash
-git clone https://github.com/Noroff-FEU-Assignments/project-exam-1-rikke-dishington.git
+$ git clone https://github.com/YOUR-USERNAME/project-exam-1
 ```
 
 2. Install the dependencies:
+
 
 ```
 npm install
