@@ -8,6 +8,7 @@
 * [Links](#links)
 * [Author](#author)
 * [Licenses](#licenses)
+* [Acknowledges](#acknowledges)
 * [Support](#support)
 
 ## Description
@@ -43,7 +44,7 @@ Some photos are purchased through Adobe Stock.
 All icons are collected from Font Awesome.
 
 ## Acknowledges
-** Hans Magnus Utne** Support with js code on images. 
+**Hans Magnus Utne** Support with js code on images. 
 
 ## Support
 
